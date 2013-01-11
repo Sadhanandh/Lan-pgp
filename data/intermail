@@ -1,0 +1,88 @@
+Delivered-To: sathanandh@gmail.com
+Received: by 10.112.76.166 with SMTP id l6csp586826lbw;
+        Tue, 9 Oct 2012 18:56:07 -0700 (PDT)
+Received: by 10.216.142.160 with SMTP id i32mr7678293wej.71.1349834167131;
+        Tue, 09 Oct 2012 18:56:07 -0700 (PDT)
+Return-Path: <ubuntu-in-bounces@lists.ubuntu.com>
+Received: from chlorine.canonical.com (chlorine.canonical.com. [91.189.94.204])
+        by mx.google.com with ESMTP id p49si14478042wea.54.2012.10.09.18.56.00;
+        Tue, 09 Oct 2012 18:56:07 -0700 (PDT)
+Received-SPF: neutral (google.com: 91.189.94.204 is neither permitted nor denied by best guess record for domain of ubuntu-in-bounces@lists.ubuntu.com) client-ip=91.189.94.204;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 91.189.94.204 is neither permitted nor denied by best guess record for domain of ubuntu-in-bounces@lists.ubuntu.com) smtp.mail=ubuntu-in-bounces@lists.ubuntu.com; dkim=neutral (body hash did not verify) header.i=@gmail.com
+Received: from localhost ([127.0.0.1] helo=chlorine.canonical.com)
+	by chlorine.canonical.com with esmtp (Exim 4.71)
+	(envelope-from <ubuntu-in-bounces@lists.ubuntu.com>)
+	id 1TLlWU-0000G8-PE; Wed, 10 Oct 2012 01:55:46 +0000
+Received: from mail-ie0-f177.google.com ([209.85.223.177])
+	by chlorine.canonical.com with esmtp (Exim 4.71)
+	(envelope-from <a.mani.cms@gmail.com>) id 1TLlWS-0000FO-By
+	for ubuntu-in@lists.ubuntu.com; Wed, 10 Oct 2012 01:55:44 +0000
+Received: by mail-ie0-f177.google.com with SMTP id e14so24929iej.8
+	for <ubuntu-in@lists.ubuntu.com>; Tue, 09 Oct 2012 18:55:43 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:date:message-id:subject:from:to:content-type;
+	bh=IZ0ChpgKybcH8cKRrFAucN94O+mwdDFY9ePGuWvORTQ=;
+	b=RU0vLYNvcObGXruIjOQmbm4wSM2v5sL+ixJFfR1Un5QVJ8OaP7JkO8UlVQbmhlFRIr
+	BI98BTRB+OFzHZtoSTUiJbwSmEAdBNs/XvJPwmzVO3hXPGmczmTaiez6WQpYUh5jhrn6
+	p4XlByhz793JiDFlCFoGTKkKAfSho//ThLq8gaq7qmYEoF5vxUGTEJNcFnEPc1KmCvke
+	jdggGtoT9Cm4XFZGXPqt5KEY2/iOIHYTEdThpg8szL2/pIfp9AEt5kYIHQBwbC5rit08
+	ieWRnB46Ffhrh4LZufUj2cVovTA3IuCyt+MFK5ni/o2wGuJquivdREH/2ejpgYlX0buO
+	5gaQ==
+MIME-Version: 1.0
+Received: by 10.50.0.140 with SMTP id 12mr3830920ige.63.1349834143585; Tue, 09
+	Oct 2012 18:55:43 -0700 (PDT)
+Received: by 10.50.89.168 with HTTP; Tue, 9 Oct 2012 18:55:43 -0700 (PDT)
+Date: Wed, 10 Oct 2012 07:25:43 +0530
+Message-ID: <CADDQFRtM9QLHR=S1ph7_67Le434VdcF6-6sbzE1Wthy13D=aAw@mail.gmail.com>
+From: "A. Mani" <a.mani.cms@gmail.com>
+To: ubuntu-in@lists.ubuntu.com
+Subject: [ubuntu-in] Experts Invited
+X-BeenThere: ubuntu-in@lists.ubuntu.com
+X-Mailman-Version: 2.1.13
+Precedence: list
+Reply-To: Ubuntu India Local Community <ubuntu-in@lists.ubuntu.com>
+List-Id: Ubuntu India Local Community <ubuntu-in.lists.ubuntu.com>
+List-Unsubscribe: <https://lists.ubuntu.com/mailman/options/ubuntu-in>,
+	<mailto:ubuntu-in-request@lists.ubuntu.com?subject=unsubscribe>
+List-Archive: <https://lists.ubuntu.com/archives/ubuntu-in>
+List-Post: <mailto:ubuntu-in@lists.ubuntu.com>
+List-Help: <mailto:ubuntu-in-request@lists.ubuntu.com?subject=help>
+List-Subscribe: <https://lists.ubuntu.com/mailman/listinfo/ubuntu-in>,
+	<mailto:ubuntu-in-request@lists.ubuntu.com?subject=subscribe>
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Sender: ubuntu-in-bounces@lists.ubuntu.com
+Errors-To: ubuntu-in-bounces@lists.ubuntu.com
+
+Do we have any *buntu contributors from Kolkata or WB?
+
+Speakers with expertise in GIMP,  Scribus and possibly   wanted for a
+multi-track full time "Free software in Science and Engg" workshop in
+Kolkata on 8, 9, 10th November'2012. It is organized by FSMWB in
+collaboration with Jadavpur University
+
+
+The tracks are on GNU/Linux Packages, Academic Writing with TeX,
+Software Carpentry, Cloud Computing and Postgresql. Please contact me
+off list with your proposals (I am in the organizing committee).
+
+
+Thanks and Best
+
+A. Mani
+
+
+-- 
+A. Mani
+CU, ASL, CLC,  AMS, CMS
+http://www.logicamani.in
+http://www.logicamani.co.cc
+
+-- 
+ubuntu-in mailing list
+ubuntu-in@lists.ubuntu.com
+https://lists.ubuntu.com/mailman/listinfo/ubuntu-in
+
+
+--MAC--
+20709282872452194270799068300846297450623131309808807131890747878776764716992568789069238207429197708531162273190851764197427869259565718041256759049375292246017432461089822729131372669544732614232917592502900412479377397839599424924830837257776537964440879764083518828149347541243136247952055396787728351996172001185807672813333491545384983396266212773117664490355973121368411914842901066005301790988702301143707602311672954914314168431048784278540854961308385916742964943616697195520877664001903109466274872274484540388862294891702319683632830679594112127096472067833033866422103867901058560231548452771010248491084
